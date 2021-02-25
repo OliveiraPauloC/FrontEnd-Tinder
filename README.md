@@ -1,4 +1,4 @@
-# FrontEnd-Tinder
+# Front-End do Tinder
 
 ### Clone da página de "Match" do Tinder
 
